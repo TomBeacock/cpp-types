@@ -5,6 +5,9 @@
 /// Byte
 using Byte = char;
 
+/// Boolean (true/false)
+using Bool = bool;
+
 /// Natural number of system wide precision
 using Nat = unsigned int;
 /// Natural number of 8-bit precision
