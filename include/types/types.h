@@ -5,6 +5,9 @@
 /// Byte
 using Byte = char;
 
+/// Size
+using Size = size_t;
+
 /// Boolean (true/false)
 using Bool = bool;
 
